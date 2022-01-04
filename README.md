@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kharkheli
-- 👀 I’m interested in ethical hacking
+- 👀 I’m interested in solving problems
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web pages or any interesting algorithms
 - 📫 How to reach me iliakharkheli6@gmail.com
